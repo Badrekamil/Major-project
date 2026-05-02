@@ -1,4 +1,4 @@
-const API_BASE = '/api';
+const API_BASE = "https://major-project-qz0z.onrender.com/api";
 
 const getHeaders = () => {
   const token = localStorage.getItem('token');
